@@ -289,7 +289,7 @@ Edited by William Torrey Harris, G. & C. Merriam Company, 1913.
 
 Σ\*={*Webster's New International Dictionary of the English Language*}[^9]
 
-[^1]: OF THE NATURE of THINGS, IN SIX BOOKS (T. Lucretius Carus Frontispiece).
+[^1]: OF THE NATURE of THINGS, IN SIX BOOKS (T. Lucretius Carus *Frontispiece*).
 
 [^2]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
