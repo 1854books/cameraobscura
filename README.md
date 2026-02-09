@@ -50,25 +50,8 @@ Translator's Acknowledgements
 
 ## Translator's Acknowledgements
 
-> WHATEVER ONE MIGHT THINK under that heading, the problem of language \[langage]
->  has undoubtedly never been one problem among others. But never as much as at
-> present has it invaded, as such, the global horizon of the most diverse researches
-> and the most heterogeneous discourses, in their intention, their method, their
-> ideology. The devaluation even of the word “language,” and everything, by way of
-> the credit given to it, announces the looseness of its vocabulary, the temptation
-> to seduce on the cheap, the fashionable passive abandon, the consciousness of the
-> avant-garde, in other words its ignorance, all of this gives evidence. This
-> inflation of the sign “language” is the inflation of the sign itself, absolute
-> inflation, inflation itself. Yet, by one of its aspects or shadows, it is itself
-> still a sign: this crisis is also a symptom. It indicates, as if in spite of itself,
-> that a historico-metaphysical epoch must finally determine as language the totality
-> of its problematic horizon. It must do so not only because all that desire had wished
-> to wrest from the play of language finds itself recaptured within it but also because
-> by the same token, language itself is there menaced in its very life, helpless,
-> unmoored because no longer having limits, brought back to its own finitude at the
-> very moment when its limits seem to efface themselves, at the very moment when it
-> ceases to be firm in itself, contained and hemmed in by the infinite signified which
-> seemed to exceed it (Derrida 6-7).
+> What has an ox to do with the letter A? <br><br>
+> \- Alan Fletcher, *The Art of Looking Sideways*
 
 ## IMAGO: “image”[^5]
 
@@ -284,7 +267,7 @@ Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
 Caravaggio. "Narcissus." oil and chiaroscuro on canvas, Galleria 
 Nazionale d'Arte Antica, 1599.
 
-Derrida, Jacques. *Of Grammatology*. Translated by Gayatri Chakravorty Spivak, Johns Hopkins UP, 1976.
+Fletcher, Alan. *The Art of Looking Sideways*. Phaidon Press, 2001.
 
 Kofman, Sarah. *Camera Obscura: Of Ideology.* Cornell University Press,
 1999.
