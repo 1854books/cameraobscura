@@ -24,8 +24,8 @@ system, stored in a database and / or published in any form or by any
 means, electronic, mechanical, photocopying, recording or otherwise,
 without the prior written permission of the publisher.
 
-Published in કલા નગરી, *kalā nagarī*: “city of art” by મન, *man*:
-“mind”[^2]
+Published in  કલા નગરી, *kalā nagarī*: "city of art"[^2] by મન, *man*: "mind"[^3]
+
 
 Cataloging in Publication Data
 
@@ -36,7 +36,7 @@ Subjects: 1. Signs & Symbols 2. Photography<br>
 
 ## Dedication  
 
-To AENEADUM GENETRIX: “MOTHER of Rome” [^3]
+To AENEADUM GENETRIX: “MOTHER of Rome” [^4]
 
 ## Contents
 
@@ -50,7 +50,25 @@ Translator's Acknowledgements
 
 ## Translator's Acknowledgements
 
-> What has an ox to do with the letter A?[^4]
+> WHATEVER ONE MIGHT THINK under that heading, the problem of language \[langage]
+>  has undoubtedly never been one problem among others. But never as much as at
+> present has it invaded, as such, the global horizon of the most diverse researches
+> and the most heterogeneous discourses, in their intention, their method, their
+> ideology. The devaluation even of the word “language,” and everything, by way of
+> the credit given to it, announces the looseness of its vocabulary, the temptation
+> to seduce on the cheap, the fashionable passive abandon, the consciousness of the
+> avant-garde, in other words its ignorance, all of this gives evidence. This
+> inflation of the sign “language” is the inflation of the sign itself, absolute
+> inflation, inflation itself. Yet, by one of its aspects or shadows, it is itself
+> still a sign: this crisis is also a symptom. It indicates, as if in spite of itself,
+> that a historico-metaphysical epoch must finally determine as language the totality
+> of its problematic horizon. It must do so not only because all that desire had wished
+> to wrest from the play of language finds itself recaptured within it but also because
+> by the same token, language itself is there menaced in its very life, helpless,
+> unmoored because no longer having limits, brought back to its own finitude at the
+> very moment when its limits seem to efface themselves, at the very moment when it
+> ceases to be firm in itself, contained and hemmed in by the infinite signified which
+> seemed to exceed it (Derrida 6-7).
 
 ## IMAGO: “image”[^5]
 
@@ -266,7 +284,7 @@ Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
 Caravaggio. "Narcissus." oil and chiaroscuro on canvas, Galleria 
 Nazionale d'Arte Antica, 1599.
 
-Fletcher, Alan. *The Art of Looking Sideways.* Phaidon Press, 2001.
+Derrida, Jacques. *Of Grammatology*. Translated by Gayatri Chakravorty Spivak, Johns Hopkins UP, 1976.
 
 Kofman, Sarah. *Camera Obscura: Of Ideology.* Cornell University Press,
 1999.
@@ -291,16 +309,16 @@ Edited by William Torrey Harris, G. & C. Merriam Company, 1913.
 
 [^1]: OF THE NATURE of THINGS, IN SIX BOOKS (T. Lucretius Carus *Frontispiece*).
 
-[^2]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
+[^2]: કલા, Classical form of કળા An art (Belsare 227) + નગર a city (Belsare 301).
+
+[^3]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
     one’s ambition (Belsare 577).
 
-[^3]: MOTHER of *Rome*, Delight of Men and Gods, Swee *Venus*; who with
+[^4]: MOTHER of *Rome*, Delight of Men and Gods, Swee *Venus*; who with
     vital Power doſt fill the Sea bearing the Ships, the fruitful Earth, 
     all Things beneath the rolling Signs of Heaven (T. Lucretius Carus *The Invocation*);
 
-[^4]: Fletcher, Alan. *The Art of Looking Sideways.* Phaidon Press,
-    2001.
 
 [^5]: îmāgo inis, *f.* \[cf. imitor\], *an imitation, copy of a thing,
     an image, likeness* (i.e. a picture, statue, mask, an apparition,
