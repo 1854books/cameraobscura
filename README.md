@@ -50,8 +50,9 @@ Translator's Acknowledgements
 
 ## Translator's Acknowledgements
 
-> What has an ox to do with the letter A? <br><br>
-> \- Alan Fletcher, *The Art of Looking Sideways*
+> What a chain of complicated processes, which must all take place in a perfectly definite succession, 
+in order to the existence of a phenomenon apparently so simple as the imitation of a sound heard, an A! <br><br>
+> William Thierry Preyer, *Mental Development In The Child*
 
 ## IMAGO: “image”[^5]
 
@@ -260,6 +261,9 @@ Excerpt From *DE LINGUA LATINA*, Book V: On the Science of the Origin of Words, 
 
 ## Notes
 
+The Vairocanābhisaṁbodhi Sutra. Translated from the Chinese by Rolf W. Giebel. 
+Taishō Shinshū Daizōkyō, vol. 18, no. 848.
+
 Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી \[Etymological
 Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
 2002.
@@ -267,7 +271,7 @@ Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
 Caravaggio. "Narcissus." oil and chiaroscuro on canvas, Galleria 
 Nazionale d'Arte Antica, 1599.
 
-Fletcher, Alan. *The Art of Looking Sideways*. Phaidon Press, 2001.
+Preyer, William T. *Mental Development in the Child*. United States, D. Appleton, 1899.
 
 Kofman, Sarah. *Camera Obscura: Of Ideology.* Cornell University Press,
 1999.
@@ -300,8 +304,8 @@ Edited by William Torrey Harris, G. & C. Merriam Company, 1913.
 
 [^4]: MOTHER of *Rome*, Delight of Men and Gods, Swee *Venus*; who with
     vital Power doſt fill the Sea bearing the Ships, the fruitful Earth, 
-    all Things beneath the rolling Signs of Heaven (T. Lucretius Carus *The Invocation*);
-
+    all Things beneath the rolling Signs of Heaven (T. Lucretius Carus *The 
+    Invocation*);
 
 [^5]: îmāgo inis, *f.* \[cf. imitor\], *an imitation, copy of a thing,
     an image, likeness* (i.e. a picture, statue, mask, an apparition,
